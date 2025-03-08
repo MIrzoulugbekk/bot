@@ -13,7 +13,7 @@ from aiogram.types import Message, FSInputFile
 RAPIDAPI_KEY = "1e45640c90msh48a86a3d2613653p14d913jsn7bb4fb9b59a5"
 
 # 🤖 Telegram bot tokeni
-BOT_TOKEN = "7577882781:AAFP4ezuSzNg3pH5Aij1LZ18LB2687b_mPc"
+BOT_TOKEN = "7995414744:AAHSnRZXnGMJgYqdjiCHdRXeOKkc9X231NY"
 
 # 🔥 Telegram botni sozlash
 bot = Bot(token=BOT_TOKEN)
